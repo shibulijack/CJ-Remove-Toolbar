@@ -24,6 +24,7 @@ Remove the Toolbar (a.k.a Admin Bar) completely from both front and back end.
 5.Minimizes **memory load** on wordpress.
 
 = Works with Wordpress 3.3.1 =
+
 Also works with the **Ozh Admin Drop Down Menu**
 
 Installing this plugin not only disables the toolbar in the front end but also removes it completely from the backend. All the *action hooks* will be removed, thus optimizing the page load time.
@@ -31,8 +32,6 @@ Installing this plugin not only disables the toolbar in the front end but also r
 = Official Page =
 
 Feedbacks and suggestions are welcome! [official plugin page](http://shibulijack.wordpress.com/2012/02/06/cj-remove-wp-toolbar/ "CJ Remove WP Toolbar")
-
-You might also be interested in [CJ Custom Content](http://shibulijack.wordpress.com/2012/02/03/cj-custom-content/ "CJ Custom Content")
 
 == Installation ==
 
